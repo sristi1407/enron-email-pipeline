@@ -1,0 +1,18 @@
+Email Extraction Statistics
+============================================================
+Generated: 2026-04-18 08:39:20.263660
+
+Summary:
+  Total files processed: 517401
+  Successfully parsed: 517389
+  Failed to parse: 12
+  Success rate: 100.00%
+
+Field Completeness:
+------------------------------------------------------------
+  body                   483795/517389   (  93.5%)
+  date                   517389/517389   ( 100.0%)
+  from_address           517389/517389   ( 100.0%)
+  message_id             517389/517389   ( 100.0%)
+  subject                498202/517389   (  96.3%)
+  to_addresses           495487/517389   (  95.8%)

@@ -1,0 +1,154 @@
+Database Summary
+======================================================================
+Generated: 2026-04-18 14:45:28.284612
+
+STATISTICS
+----------------------------------------------------------------------
+Total emails in database: 517389
+Emails marked as duplicates: 304848
+Original emails: 212541
+Duplicate percentage: 58.92%
+Original percentage: 41.08%
+
+TOP SENDERS
+----------------------------------------------------------------------
+Sender                                       Email Count
+----------------------------------------------------------------------
+jeff.dasovich@enron.com                             4438
+kay.mann@enron.com                                  4059
+sara.shackleton@enron.com                           3896
+tana.jones@enron.com                                3749
+vince.kaminski@enron.com                            3114
+chris.germany@enron.com                             2843
+pete.davis@enron.com                                2441
+matthew.lenhart@enron.com                           2031
+gerald.nemec@enron.com                              1935
+mark.taylor@enron.com                               1790
+debra.perlingiere@enron.com                         1567
+richard.sanders@enron.com                           1402
+sally.beck@enron.com                                1318
+kate.symes@enron.com                                1299
+elizabeth.sager@enron.com                           1298
+
+DUPLICATE SUMMARY
+----------------------------------------------------------------------
+Total duplicate groups: 129498
+
+Group Size Distribution:
+  Size 2: 57279 groups
+  Size 3: 35897 groups
+  Size 4: 21442 groups
+  Size 5: 4032 groups
+  Size 6: 4598 groups
+  Size 7: 1429 groups
+  Size 8: 1581 groups
+  Size 9: 953 groups
+  Size 10: 443 groups
+  Size 11: 239 groups
+  Size 12: 388 groups
+  Size 13: 158 groups
+  Size 14: 124 groups
+  Size 15: 92 groups
+  Size 16: 103 groups
+  Size 17: 38 groups
+  Size 18: 63 groups
+  Size 19: 40 groups
+  Size 20: 52 groups
+  Size 21: 46 groups
+  Size 22: 30 groups
+  Size 23: 29 groups
+  Size 24: 28 groups
+  Size 25: 18 groups
+  Size 26: 27 groups
+  Size 27: 22 groups
+  Size 28: 26 groups
+  Size 29: 18 groups
+  Size 30: 17 groups
+  Size 31: 15 groups
+  Size 32: 14 groups
+  Size 33: 10 groups
+  Size 34: 10 groups
+  Size 35: 12 groups
+  Size 36: 8 groups
+  Size 37: 9 groups
+  Size 38: 7 groups
+  Size 39: 9 groups
+  Size 40: 10 groups
+  Size 41: 4 groups
+  Size 42: 9 groups
+  Size 43: 7 groups
+  Size 44: 6 groups
+  Size 45: 10 groups
+  Size 46: 2 groups
+  Size 47: 4 groups
+  Size 48: 9 groups
+  Size 49: 2 groups
+  Size 50: 3 groups
+  Size 51: 5 groups
+  Size 52: 4 groups
+  Size 53: 2 groups
+  Size 54: 3 groups
+  Size 55: 1 groups
+  Size 56: 6 groups
+  Size 57: 2 groups
+  Size 58: 10 groups
+  Size 59: 4 groups
+  Size 60: 2 groups
+  Size 61: 1 groups
+  Size 62: 2 groups
+  Size 63: 1 groups
+  Size 64: 2 groups
+  Size 65: 1 groups
+  Size 66: 3 groups
+  Size 67: 1 groups
+  Size 68: 3 groups
+  Size 70: 3 groups
+  Size 71: 2 groups
+  Size 72: 3 groups
+  Size 73: 2 groups
+  Size 74: 2 groups
+  Size 76: 1 groups
+  Size 77: 2 groups
+  Size 78: 2 groups
+  Size 79: 1 groups
+  Size 80: 2 groups
+  Size 81: 1 groups
+  Size 82: 3 groups
+  Size 83: 2 groups
+  Size 85: 2 groups
+  Size 86: 1 groups
+  Size 87: 2 groups
+  Size 89: 1 groups
+  Size 90: 1 groups
+  Size 91: 4 groups
+  Size 92: 2 groups
+  Size 97: 2 groups
+  Size 98: 2 groups
+  Size 99: 2 groups
+  Size 101: 2 groups
+  Size 102: 1 groups
+  Size 103: 1 groups
+  Size 105: 2 groups
+  Size 106: 1 groups
+  Size 107: 1 groups
+  Size 110: 1 groups
+  Size 112: 2 groups
+  Size 113: 1 groups
+  Size 114: 1 groups
+  Size 118: 1 groups
+  Size 123: 1 groups
+  Size 126: 2 groups
+  Size 135: 1 groups
+  Size 148: 1 groups
+  Size 159: 1 groups
+  Size 186: 1 groups
+  Size 211: 1 groups
+  Size 227: 1 groups
+  Size 231: 1 groups
+  Size 263: 1 groups
+  Size 660: 1 groups
+  Size 800: 1 groups
+  Size 900: 1 groups
+
+======================================================================
+End of Report

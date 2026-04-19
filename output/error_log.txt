@@ -1,0 +1,17 @@
+Email Parse Error Log
+============================================================
+Generated: 2026-04-18 08:39:20.264931
+Total errors: 12
+
+1. maildir/kitchen-l/sent_items/24.: 'ValueTerminal' object does not support item assignment
+2. maildir/kitchen-l/sent_items/29.: 'ValueTerminal' object does not support item assignment
+3. maildir/kitchen-l/sent_items/20.: 'ValueTerminal' object does not support item assignment
+4. maildir/kitchen-l/_americas/netco_eol/83.: 'ValueTerminal' object does not support item assignment
+5. maildir/kitchen-l/_americas/netco_eol/82.: 'ValueTerminal' object does not support item assignment
+6. maildir/kitchen-l/_americas/netco_eol/1.: 'ValueTerminal' object does not support item assignment
+7. maildir/kitchen-l/_americas/esvl/87.: 'ValueTerminal' object does not support item assignment
+8. maildir/kitchen-l/_americas/netco_restart/3.: 'ValueTerminal' object does not support item assignment
+9. maildir/kitchen-l/_americas/netco_restart/4.: 'ValueTerminal' object does not support item assignment
+10. maildir/kitchen-l/_americas/netco_restart/7.: 'ValueTerminal' object does not support item assignment
+11. maildir/kitchen-l/_americas/netco_restart/5.: 'ValueTerminal' object does not support item assignment
+12. maildir/kitchen-l/_americas/netco_restart/2.: 'ValueTerminal' object does not support item assignment

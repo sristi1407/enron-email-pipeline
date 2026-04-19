@@ -1,0 +1,26 @@
+Enron Email Pipeline - Summary Report
+======================================================================
+Generated: 2026-04-18 14:45:28.055269
+
+EXTRACTION PHASE
+----------------------------------------------------------------------
+Total files found: 517401
+Successfully parsed: 517389
+Parse failures: 12
+Success rate: 100.00%
+
+DEDUPLICATION PHASE
+----------------------------------------------------------------------
+Duplicate groups found: 129498
+Total duplicates flagged: 434346
+Average group size: 3.35
+
+NOTIFICATION PHASE
+----------------------------------------------------------------------
+Total notifications: 129498
+Sent: 0
+Failed: 0
+Drafted: 129498
+
+======================================================================
+End of Report
