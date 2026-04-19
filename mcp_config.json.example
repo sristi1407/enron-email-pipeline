@@ -1,0 +1,72 @@
+{
+  "mcp_servers": {
+    "gmail": {
+      "command": "python",
+      "args": ["-m", "mcp.gmail.server"],
+      "env": {
+        "GMAIL_CLIENT_ID": "YOUR_GMAIL_CLIENT_ID_HERE",
+        "GMAIL_CLIENT_SECRET": "YOUR_GMAIL_CLIENT_SECRET_HERE",
+        "GMAIL_REFRESH_TOKEN": "YOUR_GMAIL_REFRESH_TOKEN_HERE"
+      },
+      "type": "stdio"
+    }
+  },
+  "tools": {
+    "send_email": {
+      "server": "gmail",
+      "description": "Send an email via Gmail",
+      "params": {
+        "to": {
+          "type": "string",
+          "description": "Recipient email address"
+        },
+        "subject": {
+          "type": "string",
+          "description": "Email subject line"
+        },
+        "body": {
+          "type": "string",
+          "description": "Email body content"
+        },
+        "cc": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "CC recipients (optional)",
+          "default": []
+        },
+        "bcc": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "BCC recipients (optional)",
+          "default": []
+        },
+        "reply_to": {
+          "type": "string",
+          "description": "Reply-To header (optional)"
+        },
+        "in_reply_to": {
+          "type": "string",
+          "description": "Message-ID of the email being replied to (optional)"
+        },
+        "references": {
+          "type": "string",
+          "description": "References header for email threading (optional)"
+        },
+        "is_html": {
+          "type": "boolean",
+          "description": "Send as HTML email",
+          "default": false
+        }
+      }
+    }
+  },
+  "setup_instructions": {
+    "step_1": "Create a Google Cloud project at https://console.cloud.google.com",
+    "step_2": "Enable Gmail API for the project",
+    "step_3": "Create OAuth 2.0 credentials (Desktop application type)",
+    "step_4": "Download the credentials JSON and extract CLIENT_ID and CLIENT_SECRET",
+    "step_5": "Run the OAuth flow to obtain REFRESH_TOKEN",
+    "step_6": "Add the tokens to environment variables or this config file",
+    "step_7": "Test with: python -m mcp.gmail.test"
+  }
+}
